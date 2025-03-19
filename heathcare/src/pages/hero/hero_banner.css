@@ -1,0 +1,7 @@
+#hero_banner{
+    height: 33vh;
+    position: absolute;
+}
+#hero_banner > img{
+    opacity: 0.83;
+}

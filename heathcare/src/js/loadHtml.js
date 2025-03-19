@@ -9,6 +9,6 @@ function loadHTML(selector, file) {
 
 
 document.addEventListener('DOMContentLoaded', () => {
-    loadHTML('#idx_hero', '../pages/hero_banner.html');
+    loadHTML('#idx_hero', '../pages/hero/hero_banner.html');
    
 });
